@@ -1,2 +1,3 @@
 # FunNLP
 Some NLP and ML tasks such as auto word completion, tweet clustering, digit recognition, etc...
+Mainly python scripts. 
