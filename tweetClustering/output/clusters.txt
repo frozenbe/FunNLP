@@ -1,0 +1,398 @@
+Cached from: GET /1.1/search/tweets.jsonq=%23sports&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23vr&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23currency&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23investing&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23financial&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23forex&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23hospitality&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23teaparty&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40obama&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23eagles&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40google&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23twitter&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23eatfresh&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23manhattan&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23trading&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23github&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40senators&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23developer&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23science&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23basketball&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40nhlcanes&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23stakeholders&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23oculus&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23vancouver&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23france&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23website&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40nycmayorsoffice&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23ihg&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40javascriptdaily&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23politics&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23nomnom&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40five_guys&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23immigrationreform&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23freespeech&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23til&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40un&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23kfc&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23football&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40pmharper&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23dogecoin&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23england&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23patriots&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23washington&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23vacation&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23canada&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23yummy&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23lasvegas&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23money&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23democracy&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23london&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23nodejs&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23nfl&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23seattle&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40burgerking&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23raw&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40awrestaurants&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40sony&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40coindesk&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23ottawa&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23marketing&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23business&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40bitstamp&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40nhl&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23mlb&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23economy&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23heat&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23liberal&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23subway&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23stanleycup&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23jesuischarlie&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40mapleleafs&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40sandalsresorts&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23paris&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23news&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23hotels&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23meaty&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23python&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23uk&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23usa&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23litecoin&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23food&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23organic&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23isis&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40yahoofinance&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23programming&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40apple&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40ottawacity&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23nyc&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23fifa&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23internet&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23toronto&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23chrome&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23republican&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23mozilla&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23hockey&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23china&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23russia&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23dotnet&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40mozilla&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23yankees&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23newyork&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23ottcity&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23healthyfood&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40android&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23vegan&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23blockchain&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23nba&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23losangeles&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40subway&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40microsoft&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23gop&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23reactjs&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23seahawks&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23fx&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%40nyse&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23world&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23redsox&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23firefox&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23cntower&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23nhlplayoff&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23bitcoin&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23democrat&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23stocks&count=25&include_entities=1&lang=en
+Cached from: GET /1.1/search/tweets.jsonq=%23javascript&count=25&include_entities=1&lang=en
+lower k bound is: 7 and upper k bound is 124
+silhouette score average is: 0.00421809728432
+silhouette score average is: 0.00741772032094
+silhouette score average is: 0.00728237706799
+silhouette score average is: 0.00701612903582
+silhouette score average is: 0.00726694355339
+silhouette score average is: 0.00859959765574
+silhouette score average is: 0.0103879393354
+silhouette score average is: 0.0141534727954
+silhouette score average is: 0.0133309472721
+silhouette score average is: 0.0134310517864
+silhouette score average is: 0.0160699912373
+silhouette score average is: 0.0136358999685
+silhouette score average is: 0.0134512167279
+silhouette score average is: 0.0151162365625
+silhouette score average is: 0.0219608129697
+silhouette score average is: 0.0233692197278
+/usr/lib/python2.7/dist-packages/numpy/core/_methods.py:55: RuntimeWarning: Mean of empty slice.
+  warnings.warn("Mean of empty slice.", RuntimeWarning)
+/usr/lib/python2.7/dist-packages/numpy/core/_methods.py:67: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+silhouette score average is: 0.0236128333703
+silhouette score average is: 0.0272378455035
+silhouette score average is: 0.0279565684375
+silhouette score average is: 0.0282318892007
+silhouette score average is: 0.0289989420057
+silhouette score average is: 0.0290495435573
+silhouette score average is: 0.0292238236146
+silhouette score average is: 0.0304118117293
+silhouette score average is: 0.0314931751595
+silhouette score average is: 0.0315912660833
+silhouette score average is: 0.0324682762497
+silhouette score average is: 0.0327875792709
+silhouette score average is: 0.0338687831196
+silhouette score average is: 0.0341600322798
+silhouette score average is: 0.0340974249213
+silhouette score average is: 0.0339769270676
+silhouette score average is: 0.0354668515384
+silhouette score average is: 0.0354554143055
+silhouette score average is: 0.0363463043744
+silhouette score average is: 0.0388247186664
+silhouette score average is: 0.0380010827183
+silhouette score average is: 0.0390049803327
+silhouette score average is: 0.0391359393827
+silhouette score average is: 0.0392230243266
+silhouette score average is: 0.039710805101
+silhouette score average is: 0.0400556250578
+silhouette score average is: 0.0401018367438
+silhouette score average is: 0.0405201192205
+silhouette score average is: 0.0405971517858
+silhouette score average is: 0.0402209993615
+silhouette score average is: 0.0410407441833
+silhouette score average is: 0.0416484947869
+silhouette score average is: 0.0404528801954
+silhouette score average is: 0.0411673544239
+silhouette score average is: 0.0412746032639
+silhouette score average is: 0.0419067875525
+silhouette score average is: 0.0423658252037
+silhouette score average is: 0.0422875279419
+silhouette score average is: 0.0426833094729
+silhouette score average is: 0.04502881156
+silhouette score average is: 0.0465066426565
+silhouette score average is: 0.0462751744831
+silhouette score average is: 0.0467238010424
+silhouette score average is: 0.0475026603047
+silhouette score average is: 0.0481635911598
+silhouette score average is: 0.0492691466579
+silhouette score average is: 0.0498452485889
+silhouette score average is: 0.0498433891986
+silhouette score average is: 0.0497837573585
+silhouette score average is: 0.0492817982507
+silhouette score average is: 0.0497029017109
+silhouette score average is: 0.0497366081414
+silhouette score average is: 0.0498936441515
+silhouette score average is: 0.0492452158952
+silhouette score average is: 0.0485915236861
+silhouette score average is: 0.0486346524237
+silhouette score average is: 0.0488073085541
+silhouette score average is: 0.0489961627062
+silhouette score average is: 0.0486625139704
+silhouette score average is: 0.0472410847648
+silhouette score average is: 0.0477144242597
+silhouette score average is: 0.0486968909325
+silhouette score average is: 0.0486533858865
+silhouette score average is: 0.0477472033024
+silhouette score average is: 0.0475037951028
+silhouette score average is: 0.0473876905516
+silhouette score average is: 0.0472730563332
+silhouette score average is: 0.04640313236
+silhouette score average is: 0.0456114702392
+silhouette score average is: 0.0452650320665
+silhouette score average is: 0.0439117290343
+silhouette score average is: 0.0440274520699
+silhouette score average is: 0.0430875105369
+silhouette score average is: 0.0437368971142
+silhouette score average is: 0.0437343496401
+silhouette score average is: 0.0429641603205
+silhouette score average is: 0.042208180879
+silhouette score average is: 0.0404996125975
+silhouette score average is: 0.0407901556755
+silhouette score average is: 0.0395188787725
+silhouette score average is: 0.0371520536725
+silhouette score average is: 0.0376135394749
+silhouette score average is: 0.0368257090515
+silhouette score average is: 0.0367942860624
+silhouette score average is: 0.0365763547946
+silhouette score average is: 0.0364537872458
+silhouette score average is: 0.0361575542447
+silhouette score average is: 0.0350579261005
+silhouette score average is: 0.0348336026885
+silhouette score average is: 0.0325811094888
+silhouette score average is: 0.0319472194521
+silhouette score average is: 0.0297798858836
+silhouette score average is: 0.0273690593535
+silhouette score average is: 0.0245602680541
+silhouette score average is: 0.0214313952057
+silhouette score average is: 0.0222709963754
+silhouette score average is: 0.0191428404959
+silhouette score average is: 0.0172390771211
+silhouette score average is: 0.0124221242517
+silhouette score average is: 0.00876917072082
+silhouette score average is: 0.00428679488083
+best k is: 75 and highest silhouette score is: 0.0498936441515
+>> Results:
+[0]: #football, #nfl, #seahawks
+cluster size: 3
+[1]: #github, #developer, @javascriptdaily, #nodejs, #reactjs, #javascript
+cluster size: 6
+[2]: #dogecoin, #litecoin
+cluster size: 2
+[3]: @senators, #liberal
+cluster size: 2
+[4]: #investing, #economy
+cluster size: 2
+[5]: #sports, #basketball, #heat, #nba
+cluster size: 4
+[6]: #news
+cluster size: 1
+[7]: #science, #england, #london, #uk
+cluster size: 4
+[8]: #twitter
+cluster size: 1
+[9]: #forex, #trading, #fx, #stocks
+cluster size: 4
+[10]: #firefox
+cluster size: 1
+[11]: #eatfresh, #subway, @subway
+cluster size: 3
+[12]: #manhattan, #russia
+cluster size: 2
+[13]: #mlb, #yankees, #redsox
+cluster size: 3
+[14]: #immigrationreform, #republican
+cluster size: 2
+[15]: #vr, #oculus
+cluster size: 2
+[16]: #nomnom, #yummy
+cluster size: 2
+[17]: @mapleleafs, #hockey
+cluster size: 2
+[18]: #ottawa, @ottawacity, #ottcity
+cluster size: 3
+[19]: #marketing, #internet
+cluster size: 2
+[20]: #hospitality, #washington, #seattle
+cluster size: 3
+[21]: #money, #business
+cluster size: 2
+[22]: #jesuischarlie
+cluster size: 1
+[23]: #newyork
+cluster size: 1
+[24]: #canada, #toronto
+cluster size: 2
+[25]: #france, #usa
+cluster size: 2
+[26]: @nhlcanes
+cluster size: 1
+[27]: #til
+cluster size: 1
+[28]: @coindesk, @bitstamp, #blockchain, #bitcoin
+cluster size: 4
+[29]: #mozilla, @mozilla
+cluster size: 2
+[30]: #kfc, @burgerking
+cluster size: 2
+[31]: #eagles
+cluster size: 1
+[32]: #organic, #vegan
+cluster size: 2
+[33]: @apple
+cluster size: 1
+[34]: #vacation
+cluster size: 1
+[35]: #stakeholders
+cluster size: 1
+[36]: @sandalsresorts
+cluster size: 1
+[37]: #raw
+cluster size: 1
+[38]: #ihg, #hotels
+cluster size: 2
+[39]: @nhl, #stanleycup
+cluster size: 2
+[40]: #freespeech
+cluster size: 1
+[41]: #food, #healthyfood
+cluster size: 2
+[42]: #financial
+cluster size: 1
+[43]: #democracy
+cluster size: 1
+[44]: @google
+cluster size: 1
+[45]: #politics
+cluster size: 1
+[46]: @yahoofinance
+cluster size: 1
+[47]: @five_guys
+cluster size: 1
+[48]: #vancouver
+cluster size: 1
+[49]: @awrestaurants
+cluster size: 1
+[50]: @un
+cluster size: 1
+[51]: #isis
+cluster size: 1
+[52]: @microsoft
+cluster size: 1
+[53]: #website
+cluster size: 1
+[54]: #meaty
+cluster size: 1
+[55]: #nyc
+cluster size: 1
+[56]: @pmharper
+cluster size: 1
+[57]: @obama
+cluster size: 1
+[58]: #dotnet
+cluster size: 1
+[59]: @nycmayorsoffice
+cluster size: 1
+[60]: #python
+cluster size: 1
+[61]: #nhlplayoff
+cluster size: 1
+[62]: @sony
+cluster size: 1
+[63]: #world
+cluster size: 1
+[64]: #lasvegas, #losangeles
+cluster size: 2
+[65]: @nyse
+cluster size: 1
+[66]: #fifa
+cluster size: 1
+[67]: #chrome
+cluster size: 1
+[68]: #teaparty, #patriots, #gop, #democrat
+cluster size: 4
+[69]: @android
+cluster size: 1
+[70]: #paris
+cluster size: 1
+[71]: #programming
+cluster size: 1
+[72]: #cntower
+cluster size: 1
+[73]: #china
+cluster size: 1
+[74]: #currency
+cluster size: 1
