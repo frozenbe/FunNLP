@@ -122,7 +122,7 @@ class TwitterAPI(object):
         #print "Request to: %s %s ..." % (rType, url),
         req.putrequest(rType, url)
         req.putheader("Host", HOST)
-        req.putheader("User-Agent", "Benbria NLP Challenge v1.0")
+        req.putheader("User-Agent", "NLP Challenge v1.0")
         if self._bearerToken is None:
             auth = 'Basic %s' % base64.b64encode(self._concatConsumerURL)
         else:
@@ -185,8 +185,8 @@ class TwitterAPI(object):
         cachedContent = self._getCachedContent(
             rType, url, paramString, **params)
         if cachedContent is not None:
-            print "Cached from: %s %s%s" % (
-                rType, url, paramString or urllib.urlencode(params))
+            #print "Cached from: %s %s%s" % (
+              #  rType, url, paramString or urllib.urlencode(params))
             return cachedContent
 
         content = self._sendRequest(rType, url, paramString, **params)
